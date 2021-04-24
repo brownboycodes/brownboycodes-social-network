@@ -1,0 +1,16 @@
+{
+  "short_name": "Social Networking App",
+  "name": "brownboycodes's Social Networking App",
+  "author":"Nabhodipta Garai",
+  "developer":"Nabhodipta Garai a.k.a. brownboycodes",
+  "icons": [
+      {
+          "src": "/images/app_logo_64px.png",
+          "type": "image/png",
+          "sizes": "64x64"
+      }
+  ],
+  "start_url": "/index.html",
+  "manifest_version": 2,
+  "version": "0.2"
+}

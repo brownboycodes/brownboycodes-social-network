@@ -1,0 +1,33 @@
+{
+  "name": "brownboycodes_social_network",
+  "version": "0.1.0",
+  "description": "a platform where users can publish posts and message each other",
+  "main": "server.js",
+  "scripts": {
+    "devServer": "nodemon server",
+    "devClient": "npm start --prefix frontend",
+    "startDev": "concurrently \"npm run devServer\" \"npm run devClient\"",
+    "start": "node server",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "author": "Nabhodipta Garai (brownboycodes)",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "concurrently": "^6.0.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.12.5",
+    "nedb": "^1.8.0",
+    "nedb-session-store": "^1.1.2",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "socket.io": "^4.0.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
