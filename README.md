@@ -46,7 +46,7 @@ Technologies being used on the Backend:
 
 ---
 
-![Messenger](./frontend/public/images/brownboycodes social messaging.png)
+![Messenger](./frontend/public/images/brownboycodes-social-messaging.png)
 
 ---
 
