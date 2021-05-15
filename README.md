@@ -42,12 +42,24 @@ Technologies being used on the Backend:
 ![All Posts](./frontend/public/images/brownboycodes-social.jpg)
 
 ---
+## chat messenger
+
+---
+
+![Messenger](./frontend/public/images/brownboycodes social messaging.png)
+
+---
 
     To build the clientside of the application run:
+
     `npm run heroku-postbuild`
+
     To start the application in production mode run:
+
     `npm run start`
-    To start the application in production mode run:
+    
+    To start the application in development mode run:
+    
     `npm run startDev`
 
 ---
