@@ -50,18 +50,18 @@ Technologies being used on the Backend:
 
 ---
 
-    To build the clientside of the application run:
+To build the clientside of the application run:
 
     `npm run heroku-postbuild`
 
-    To start the application in production mode run:
+To start the application in production mode run:
 
     `npm run start`
     
-    To start the application in development mode run:
+To start the application in development mode run:
     
     `npm run startDev`
 
 ---
 
-created by [brownboycodes](https://brownboycodes.herokuapp.com/)
+created by [Nabhodipta Garai | brownboycodes](https://brownboycodes.herokuapp.com/)
