@@ -32,14 +32,14 @@ Technologies being used on the Backend:
 
 ---
 
-![Homepage](public/images/social_network_landing.jpg)
+![Homepage](./frontend/public/images/social_network_landing.jpg)
 
 ---
 ## page containing all Posts
 
 ---
 
-![All Posts](public/images/brownboycodes-social.jpg)
+![All Posts](./frontend/public/images/brownboycodes-social.jpg)
 
 ---
 
