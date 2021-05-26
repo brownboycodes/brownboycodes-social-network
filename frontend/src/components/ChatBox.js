@@ -18,6 +18,9 @@ const ChatBox = () => {
     return (
       <Container>
         <p>Select a user to chat with from the menu on the left</p>
+        <p>The user you want to chat with must also select you from their chat navigation menu</p>
+        <p>The messages sent and received will not be stored in databases and therefore they will disappear if page is refreshed</p>
+        <p>The purpose of this chat navigation is to demonstrate fully functional real-time communication system</p>
       </Container>
     );
   }
